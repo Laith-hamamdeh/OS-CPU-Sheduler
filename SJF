@@ -1,0 +1,6 @@
+ContextSwitchTime 0
+ProcessID ArrivalTime BurstTime
+1               2          6
+2               2          8
+3               3          7
+4               3          3
